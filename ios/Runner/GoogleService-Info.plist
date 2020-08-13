@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1060411404653-fupv8kkkmnrh3t6g1h4n0esmeuim9t9c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1060411404653-fupv8kkkmnrh3t6g1h4n0esmeuim9t9c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCoSAcqOcfBXqgSXrgMJWHWGADlp_OwxE8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1060411404653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.getxTodo</string>
+	<key>PROJECT_ID</key>
+	<string>getx-todos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>getx-todos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1060411404653:ios:8e6059e5645af59451ea64</string>
+	<key>DATABASE_URL</key>
+	<string>https://getx-todos.firebaseio.com</string>
+</dict>
+</plist>
